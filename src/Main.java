@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-
+        
+        //Fatih ASA 36470
+        
         Singleton obj1 = new Singleton();
         Singleton obj2 = new Singleton();
 
